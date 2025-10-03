@@ -1,0 +1,12 @@
+package com.example.java8.function;
+
+public class MyUtil
+{
+    private Integer age = 30;
+    public static String getFavoriteBook(){
+        return "Mahabharat";
+    }
+    public Integer getAge(){
+        return age;
+    }
+}
